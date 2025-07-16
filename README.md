@@ -1,5 +1,6 @@
 # Defi-Credit-Score-System
-Overview
+Overview :
+
 This project uses historical Aave V2 transaction data to group wallets by behavior and assign each wallet a credit score between 0 and 1000, using unsupervised learning (clustering)
 What’s Inside :
 user-wallet-transactions.json – raw Aave V2 transaction data
