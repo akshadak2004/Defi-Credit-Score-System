@@ -32,11 +32,12 @@ A fixed score is assigned to each cluster.
 
 Example:
 
-Cluster	Behavior	Score
-0	Inactive or low usage	200
-1	Large responsible users	850
-2	Risky, high borrow, low repay	400
-3	Very active, reliable users	950
+Cluster	Behavior	Score :
+
+0	: Inactive or low usage	200
+1	: Large responsible users	850
+2 :	Risky, high borrow, low repay	400
+3 :	Very active, reliable users	950
 
 Output
 Each wallet is tagged with:
